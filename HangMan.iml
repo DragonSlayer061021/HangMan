@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/JAR Files/acm.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/acm.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/JAR Files/Dialog.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Dialog.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
